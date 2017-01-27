@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: showdown
+Bundle-Name: Showdown for Servoy
+Bundle-Version: 1.0.0-beta1
+Package-Type: Web-Component
+
+Name: showdown/showdown.spec
+Web-Component: True
+
