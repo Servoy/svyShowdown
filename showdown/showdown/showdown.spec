@@ -1,6 +1,7 @@
 {
 	"name": "showdown-showdown",
 	"displayName": "showdown",
+	"categoryName": "Visualization",
 	"version": 1,
 	"definition": "showdown/showdown/showdown.js",
 	"libraries": [
